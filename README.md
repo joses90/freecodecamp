@@ -1,2 +1,19 @@
-# freecodecamp
-freecodecamp challenges solved
+# All Freecodecamp challenges included
+- chunky-monkey  
+- confirm-the-ending  
+- counting-cards  
+- factorialize-a-number  
+- find-the-longest-word-in-a-string  
+- mutations  
+- nesting-for-loops  
+- palindrome-checker  
+- profile-lookup  
+- return-largest-numbers-in-arrays  
+- roman-numeral-converter  
+- seek-and-destroy  
+- stand-in-line  
+- title-case-a-sentence  
+- use-recursion-to-create-a-countdown  
+- use-recursion-to-create-a-range-of-numbers  
+- where-do-i-belong  
+- wherefore-art-thou  
